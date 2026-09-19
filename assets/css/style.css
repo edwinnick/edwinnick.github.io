@@ -462,8 +462,12 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
+.skills {
+    background-color: #e4ecf0;
+}
+
 .skills .progress {
   height: 60px;
   display: block;
@@ -561,6 +565,10 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio {
+    background-color: #e9f0e9;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -992,9 +1000,12 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact {
+  background-color: #e9eef0;
+}
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: #e9eef0;
 }
 
 .contact .info i {
@@ -1037,7 +1048,7 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
+  background: #e9eef0;
 }
 
 .contact .php-email-form .form-group {
